@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+  <item>
+    <title>Notepad Clone 1.1.0</title>
+    <version>1.1.0</version>
+    <pubDate>2026-02-14</pubDate>
+    <description>
+      - Async AI generation (non-blocking UI)
+      - AI result panel (copy/insert/replace)
+      - Workspace + crypto helper modules
+      - Update checker improvements
+    </description>
+    <enclosure
+      url="https://ne0gl1tch20.github.io/updates/NotepadClone-1.1.0-setup.exe"
+      type="application/octet-stream" />
+  </item>
+</updates>
