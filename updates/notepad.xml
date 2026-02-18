@@ -2,7 +2,7 @@
 <updates>
   <item>
     <title>Notepad Clone 1.1.0</title>
-    <version>1.1.0</version>
+    <version>1.6.7</version>
     <pubDate>2026-02-14</pubDate>
     <description>
       - Async AI generation (non-blocking UI)
@@ -11,7 +11,8 @@
       - Update checker improvements
     </description>
     <enclosure
-      url="https://ne0gl1tch20.github.io/updates/NotepadClone-1.1.0-setup.exe"
+      url="https://raw.githubusercontent.com/ne0gl1tch20/neogl1tch20server/refs/heads/main/updates/notepad-1.1.0.exe"
       type="application/octet-stream" />
   </item>
 </updates>
+
